@@ -1,5 +1,5 @@
 # Synthetic_PIV_images
-Scripts to make synthetic images for PIV
+Scripts to make synthetic images for PIV for submitted manuscript. 
 
 The MATLAB scripts in this repo are based on Thielicke and Stamhuis PIVlab. I have modified thescript to make shear zones instead of vortex.
 
